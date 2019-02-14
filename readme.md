@@ -5,8 +5,6 @@ System Requirements
 OS: Linux (Ubuntu 14.04)
 Compiler: g++ (with C++11)
 Compiling Instructions
-Use 'make' to build the project. (Requires C++11 supported compiler)
-Use 'make clean' to remove object/executable files.
 Usage Instructions
 Use ./desman [args] to run the desman server and specify how many watchdogs will be connecting.
 The desman's IP address will be written to the console so the user can easily enter it as an argument when running the watchdogs.
